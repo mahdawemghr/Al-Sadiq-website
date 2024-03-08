@@ -38,5 +38,21 @@ footer {
 section {
     text-align: center;
     padding: 100px;
-    margin-bottom: 500px;
+    /* margin-bottom: 500px; */
+}
+
+.one {
+    background-color: aquamarine;
+}
+
+.two {
+    background-color: blue;
+}
+
+.logo:hover {
+    transform: scale(1.1);
+}
+
+a:hover {
+    color: darkgray;
 }
